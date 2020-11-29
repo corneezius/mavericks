@@ -355,7 +355,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  color: rgba(255, 255, 255, 0.5);
+  color: d2c3c3;
   position: relative;
   margin: 0 0 1.5em 0; }
 
@@ -781,12 +781,14 @@ button,
   font-size: 3.25em;
   margin: 0 0 0.55em 0;
   text-align:center;
+  font-family:'lato', sans-serif;
  }
 
 #header p {
   font-size: 1.35em;
   line-height: 1.65em;
   text-align:center;
+  color:white;
  }
 
 #header a {
@@ -901,5 +903,10 @@ button,
   margin-top: 15px;
     width: 96%;
     background: #1c75b4;
-    font-size:11pt;
+    font-size:13pt;
+}
+
+#header {
+  margin: 0 auto;
+width: 50%;
 }
