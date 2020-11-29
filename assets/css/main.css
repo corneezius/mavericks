@@ -154,7 +154,7 @@ body {
       -webkit-animation: bg 45s linear infinite;
       -ms-animation: bg 45s linear infinite;
       animation: bg 45s linear infinite;
-      opacity: 1;
+      opacity: .5;
       visibility: visible;
       z-index: 1; }
       #bg div.visible.top {
@@ -892,3 +892,14 @@ button,
       left: auto;
       margin: 1em 0 0 0;
       position: relative; } }
+
+.signup {
+  margin: 0 auto;
+}
+
+#more-info {
+  margin-top: 15px;
+    width: 96%;
+    background: #1c75b4;
+    font-size:17px;
+}
