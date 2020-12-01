@@ -910,3 +910,24 @@ button,
   margin: 0 auto;
 width: 50%;
 }
+.text-success, .text-danger {
+  text-align:Center;
+  margin-top:20px;
+  font-size:20px;
+}
+
+.text-success {
+  color:green;
+}
+
+.text-danger {
+  color:red;
+}
+
+#mainNav {
+  background:black;
+  color:white;
+  text-align:center;
+  display:block;
+  font-size:14px;
+}
