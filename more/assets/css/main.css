@@ -3227,5 +3227,15 @@ input, select, textarea {
 	}
 
 	#none {
-		color:white; 
+		color:b#137d12;
+		text-decoration:none !important;
+	}
+
+	.no-margin {
+		margin-bottom:5px !important;
+
+	}
+
+	.black {
+		color: black !important;
 	}
